@@ -1,0 +1,20 @@
+C:\Users\Asus\source\repos\McJollibee\McJollibee\bin\Debug\McJollibee.exe.config
+C:\Users\Asus\source\repos\McJollibee\McJollibee\bin\Debug\McJollibee.exe
+C:\Users\Asus\source\repos\McJollibee\McJollibee\bin\Debug\McJollibee.pdb
+C:\Users\Asus\source\repos\McJollibee\McJollibee\obj\Debug\McJollibee.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\McJollibee\McJollibee\obj\Debug\McJollibee.Form1.resources
+C:\Users\Asus\source\repos\McJollibee\McJollibee\obj\Debug\McJollibee.Properties.Resources.resources
+C:\Users\Asus\source\repos\McJollibee\McJollibee\obj\Debug\McJollibee.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\McJollibee\McJollibee\obj\Debug\McJollibee.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\McJollibee\McJollibee\obj\Debug\McJollibee.exe
+C:\Users\Asus\source\repos\McJollibee\McJollibee\obj\Debug\McJollibee.pdb
+C:\Users\bob joshua\source\repos\McJollibee\McJollibee\bin\Debug\McJollibee.exe.config
+C:\Users\bob joshua\source\repos\McJollibee\McJollibee\bin\Debug\McJollibee.exe
+C:\Users\bob joshua\source\repos\McJollibee\McJollibee\bin\Debug\McJollibee.pdb
+C:\Users\bob joshua\source\repos\McJollibee\McJollibee\obj\Debug\McJollibee.csprojAssemblyReference.cache
+C:\Users\bob joshua\source\repos\McJollibee\McJollibee\obj\Debug\McJollibee.Form1.resources
+C:\Users\bob joshua\source\repos\McJollibee\McJollibee\obj\Debug\McJollibee.Properties.Resources.resources
+C:\Users\bob joshua\source\repos\McJollibee\McJollibee\obj\Debug\McJollibee.csproj.GenerateResource.cache
+C:\Users\bob joshua\source\repos\McJollibee\McJollibee\obj\Debug\McJollibee.csproj.CoreCompileInputs.cache
+C:\Users\bob joshua\source\repos\McJollibee\McJollibee\obj\Debug\McJollibee.exe
+C:\Users\bob joshua\source\repos\McJollibee\McJollibee\obj\Debug\McJollibee.pdb
